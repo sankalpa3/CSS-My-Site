@@ -1,0 +1,238 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+  color: #eeeeee;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 2px;
+}
+
+h1:hover {
+  color: gold;
+  font-family: 'Cinzel', serif;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  letter-spacing: 6px;
+  transition: 3s ease-in-out;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Bellota', cursive;
+  letter-spacing: 3px;
+}
+
+p{
+  font-family: 'Raleway', sans-serif;
+}
+
+.hola {
+  color: #00adb5;
+  float: inherit;
+  transition: 3s ease-in-out;
+  padding-top: 40px; padding-bottom: 20px;
+}
+
+.moon {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  right: 250px;
+  top: 610px;
+}
+
+.star {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  left: 250px;
+  top: 770px;
+}
+
+.myskills {
+  color: #ff5722;
+  padding-bottom: 20px; padding-top: 20px;
+
+}
+
+
+.para {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+  transition: 2s ease-in-out;
+}
+
+.para:hover {
+  color: #ff5722;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.para2{
+font-family: 'Raleway', sans-serif;
+letter-spacing: 2px;
+transition: 2s ease-in-out;
+padding-bottom:  40px; padding-top: 20px;
+
+}
+.top-container {
+  background-color: #00adb5;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #303841;
+}
+
+.skills {
+  background-color: #eeeeee;
+}
+
+.bottom-container {
+  background-color: #303841;
+  padding-top: 100px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 0;
+  height: 125px;
+  width: 300px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 250px;
+  bottom: 400px;
+  height: 120px;
+  width: 400px;
+}
+
+.profile {
+  margin: 0;
+}
+
+hr {
+  border-style: none;
+  border-top: 4px dotted #a2d5f2;
+  width: 7%;
+}
+
+.touch{
+  color: #00adb5;
+  float: inherit;
+  transition: 3s ease-in-out;
+  margin-top: 20px;
+}
+
+.camera {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  left: 350px;
+  top: 1230px;
+}
+.video {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  right: 350px;
+  top: 1400px;
+}
+.chess {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  left: 350px;
+  top: 1550px;
+}
+.tennis {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  right: 350px;
+  top: 1690px;
+}
+.pen {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  left: 350px;
+  top: 1860px;
+
+}
+.h3 {
+  color: #00adb5;
+  font-family: 'Bellota', cursive;
+  letter-spacing: 3px;
+  display:block;
+
+}
+.skillspara {
+  color: #303841;
+  padding-right: 500px; padding-left: 500px; padding-bottom: 20px;
+  text-align: center;
+  display: block;
+}
+.h31 {
+  color : #ff7e67;
+  font-family: 'Raleway', sans-serif;
+}
+.btn {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #f0c94a 5%, #e09028 100%);
+	background-color:#f0c94a;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:15px;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 7px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #e09028 5%, #f0c94a 100%);
+	background-color:#e09028;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a {
+  color: #11999E;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    margin: 40px;
+}
+
+.bottom-container {
+  margin: 0; padding-top: 10px;
+}
+
+.copyright {
+  margin-top: 20px;
+    margin-bottom: 10px;
+    color: #d5f4e6;
+}
+
+.footer-link: {
+  letter-spacing :2px;
+}
+.footer-link:hover {
+  color: white;
+  font-size: 20px;
+  transition: 1s ease-in-out;
+}
+
+.profilepic {
+  height:300px; width:300px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
